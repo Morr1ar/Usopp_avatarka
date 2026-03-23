@@ -1,0 +1,46 @@
+.avatarka {
+    position: relative;
+}
+
+div {
+    width: 600px;
+    height: 600px;
+}
+
+.avatar-1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-image: url(/images/Usopp.webp);
+    background-size: cover;
+}
+
+.avatar-2 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-image: url(/images/Usopp-arm-no-finger.png);
+    background-size: cover;
+    z-index: 1;
+}
+
+.Usopp-png {
+    position: absolute;
+    left: -120px;
+    bottom: -30px;
+}
+
+.Luffy-png {
+    position: absolute;
+    right: -130px;
+    top: -100px;
+    transform: rotate(-150deg) scale(0.5);
+}
+
+.Trafi-png {
+    position: absolute;
+    right: -10px;
+    bottom: -125px;
+    transform: scale(0.6) rotate(-10deg);
+    z-index: 1;
+}
