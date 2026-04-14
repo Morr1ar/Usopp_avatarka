@@ -11,7 +11,7 @@ div {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: url(/images/Usopp.webp);
+    background-image: url(/images/usopp/Usopp.webp);
     background-size: cover;
 }
 
@@ -19,7 +19,7 @@ div {
     position: absolute;
     left: 0;
     top: 0;
-    background-image: url(/images/Usopp-arm-no-finger.png);
+    background-image: url(/images/usopp/Usopp-arm-no-finger.png);
     background-size: cover;
     z-index: 1;
 }
